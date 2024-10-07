@@ -1,5 +1,4 @@
 # ECE4016 Assigment 1
-*Jiarui Chen  120090361*
 
 ## How to run this program
 1. Use `cd` command to get into the directory
