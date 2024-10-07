@@ -1,4 +1,3 @@
-# Jiarui Chen 120090361
 
 from sys import argv
 from socket import *
